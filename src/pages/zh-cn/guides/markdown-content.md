@@ -4,7 +4,9 @@ title: Markdown
 description: 在 Astro 中使用 Markdown
 ---
 
-Markdown 内容通常用于创作长文本内容，例如博客文章和文档。Astro 内置了 Markdown 支持并增加了一些功能，例如在 Markdown 中支持 JavaScript 表达式和 Astro 组件。
+Markdown 内容通常用于创作长文本内容，例如博客文章和文档。Astro 内置了 Markdown 支持。
+
+在 [@astrojs/mdx 集成](/zh-cn/guides/integrations-guide/mdx/)的帮助下, Astro 通过 [MDX](https://mdxjs.com/)(`.mdx`) 文件为你的 Markdown 新增了一些功能，例如对 JavaScript 表达式和 Astro 组件的支持。
 
 ## Markdown 页面
 
